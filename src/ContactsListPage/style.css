@@ -1,0 +1,56 @@
+
+
+.contact-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.contact-header {
+  width:50%;
+  display: block;
+  /* text-align: center; */
+  font-size: 25px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.addcontact-button-container{
+  width: 15%;
+}
+
+.addcontact-button {
+  display: block;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.sort-container {
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+  justify-content: space-around;
+}
+
+.sort-button {
+  display: block;
+  width: 50%;
+  height: 30px;
+  border: 1px solid black;
+}
+
+.each-contact-name{
+  font-size: 20px;
+  text-align: center;
+  text-transform: capitalize;
+  text-decoration: none;
+  color: black;
+}
+
+
+
+.each-contact-name :hover{
+  opacity: .5;
+  font-size: calc(100% + 2px);
+  transition: .3s;
+}

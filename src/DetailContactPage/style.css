@@ -1,0 +1,26 @@
+.detail-name {
+  font-family: 'Righteous', cursive;
+  font-size: 25px;
+}
+
+.detail-info{
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.where-you-met {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.edit-button-container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+
+}
+
+.button {
+  display: block;
+  border: 1px solid black;
+}

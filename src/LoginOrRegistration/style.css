@@ -1,0 +1,33 @@
+.login-label {
+    /* display: block; */
+    text-align: center;
+    margin: 2rem auto;
+
+}
+
+.login-input {
+    /* display: block; */
+    text-align: center;
+    border: 1px solid grey;
+    margin: 2.0rem auto;
+
+
+}
+
+/* .login-form {
+    max-width: 70%;
+    height: 200px;
+    margin: 2rem auto;
+    border: 2px solid grey;
+    background-color: #a28b8b;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120' viewBox='0 0 120 120'%3E%3Cpolygon fill='%23000' fill-opacity='.1' points='120 0 120 60 90 30 60 0 0 0 0 0 60 60 0 120 60 120 90 90 120 60 120 0'/%3E%3C/svg%3E");
+  } */
+
+  .form-container{
+    /* background-color: #e2d1d1; */
+    /* background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120' viewBox='0 0 120 120'%3E%3Cpolygon fill='%23000' fill-opacity='.1' points='120 0 120 60 90 30 60 0 0 0 0 0 60 60 0 120 60 120 90 90 120 60 120 0'/%3E%3C/svg%3E"); */
+  }
+
+  .log-reg-button{
+      margin-left: 40px;
+  }

@@ -1,0 +1,28 @@
+
+.add-label{
+  display: block;
+  width: 100%;
+}
+.inputConversationDetails{
+  display: block;
+  width: 95%;
+  border: 1px solid grey;
+}
+
+.add-input{
+  display: block;
+  width: 95%;
+  border: 1px solid grey;
+}
+
+.inputImportance{
+  width: 5%;
+}
+
+.inputLinkedInFriends{
+  width: 10%;
+}
+
+.inputConversationDetails{
+  height: 6em;
+}

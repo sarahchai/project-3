@@ -1,0 +1,2 @@
+DROP DATABASE project_3_remember_me;
+CREATE DATABASE project_3_remember_me;
